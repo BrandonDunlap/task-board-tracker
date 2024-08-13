@@ -14,3 +14,12 @@ body {
 .task-card:hover {
   cursor: grab;
 }
+
+.bg-danger {
+  background-color: #dc3545 !important;
+  color: white !important;
+}
+
+.bg-warning {
+  background-color: #ffc107 !important;
+}
