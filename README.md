@@ -28,6 +28,10 @@ Drag tasks between columns to update their progress state.
 
 Click the "Delete" button on a task to remove it from the board.
 
+## License
+
+This project falls under the MIT license.
+
 ## Live URL
 
 Provide the URL of the deployed application.
