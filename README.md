@@ -32,8 +32,6 @@ Click the "Delete" button on a task to remove it from the board.
 
 Provide the URL of the deployed application.
 
-## GitHub Repository
-
-Provide the URL of the GitHub repository.
-
 ## Screenshots
+
+![Task Board Screenshot](Develop\assets\images\taskboardScreenshot.png)
